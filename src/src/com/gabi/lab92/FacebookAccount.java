@@ -11,7 +11,7 @@ public class FacebookAccount {
     private List<Friend> prieteni = new ArrayList<Friend>();
 
     public FacebookAccount(String nume, int varsta, String locatieCurenta, List<Friend> prieteni) {
-        this.nume = nume;
+        this.nume =nume;
         this.varsta = varsta;
         this.locatieCurenta = locatieCurenta;
         this.prieteni = prieteni;

@@ -7,7 +7,7 @@ public class Friend {
     private String locatiaCurenta;
 
     public Friend(String nume, String locatiaCurenta) {
-        this.nume = nume;
+        this.nume =nume;
         this.locatiaCurenta = locatiaCurenta;
     }
 

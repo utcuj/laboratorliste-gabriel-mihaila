@@ -26,7 +26,7 @@ public class TestMain {
         expozitie.listNumber();
 
         expozitie.removeCar(2);
-        System.out.println("\nDupa update: ");
+        System.out.println("\nDupa update:");
         expozitie.listCars();
     }
 }

@@ -7,7 +7,7 @@ public class PetHotel {
 
     private HashMap<Integer,Dog> registru = new HashMap<Integer, Dog>();
 
-    public void addDog(Dog dog, int key) {
+    public void addDog(Dog dog,int key) {
         registru.put(key,dog);
     }
 

@@ -7,7 +7,7 @@ public class TestMain {
         Dog dog2 = new Dog("Azorel",2);
         Dog dog3 = new Dog("Bruno",5);
         Dog dog4 = new Dog("Rex",4);
-        Dog dog5 = new Dog("Ozzy",4);
+        Dog dog5 = new Dog("Ozzy",8);
 
         hotel.addDog(dog1,1);
         hotel.addDog(dog2,2);

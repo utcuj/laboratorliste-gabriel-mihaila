@@ -32,6 +32,5 @@ public class Expozitie {
     }
 
     public void removeCar(Integer key){
-        data.remove(key);
-    }
+        data.remove(key);}
 }

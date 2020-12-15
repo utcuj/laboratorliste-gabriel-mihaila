@@ -22,7 +22,7 @@ public class TestMain {
         System.out.println();
         profile.listFriend();
 
-        List<Friend> prieteniGasiti = profile.searchFriend("Bucuresti");
+        List<Friend> prieteniGasiti =profile.searchFriend("Bucuresti");
         System.out.println();
         System.out.println("Lista de prieteni gasiti:");
         for(Friend prieten : prieteniGasiti){

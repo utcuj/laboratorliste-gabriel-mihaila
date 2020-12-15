@@ -21,7 +21,7 @@ public class Car {
         return anFabricatie;
     }
 
-    public void setAnFabricatie(int anFabricatie) {
+    public void setAnFabricatie(int anFabricatie){
         this.anFabricatie = anFabricatie;
     }
 }
